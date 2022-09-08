@@ -1,5 +1,16 @@
+#Pejeto Serotonina
+<br>
+Integrantes:
+
+--> Giovanna Laura 
+--> Mayara 
+--> Mônica Macêdo
+--> Stephany Christine
+
+<br>
+
 # Serotonina back-end
-Atualizações referentes ao projeto Serotonina.
+Atualizações pertencentes ao projeto Serotonina.
 <br>
 
 Tabela Referente aos métodos de nosso projeto:
