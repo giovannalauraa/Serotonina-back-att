@@ -1,4 +1,5 @@
-#Pejeto Serotonina
+
+# Serotonina back-end
 <br>
 Integrantes:
 
@@ -8,8 +9,6 @@ Integrantes:
 --> Stephany Christine
 
 <br>
-
-# Serotonina back-end
 Atualizações pertencentes ao projeto Serotonina.
 <br>
 
