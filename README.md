@@ -4,7 +4,9 @@
 Atualizações pertencentes ao projeto Serotonina.
 <br>
 <br>
-Integrantes:
+
+### Integrantes:
+
 <br>
 --> Giovanna Laura 
 <br>
@@ -16,7 +18,11 @@ Integrantes:
 <br>
 
 <br>
-Tabela Referente aos métodos de nosso projeto:
+
+### Tabela Referente aos métodos de nosso projeto:
+
 <br>
 <br>
+
+![alt text](https://github.com/giovannalauraa/Serotonina-back-att/blob/main/Serotonina-API.png)
 
